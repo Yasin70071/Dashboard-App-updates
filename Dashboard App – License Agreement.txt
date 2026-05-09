@@ -1,8 +1,8 @@
 By installing or using Dashboard App, you agree to the following terms:
 
 1.This software is provided “as is”, without warranty of any kind.
-The developer is not responsible for any damage, data loss, or issues that may occur from using this application.
-2.You are free to install and use Dashboard App on your personal device.
+The developer/developer are not responsible for any damage, data loss, or issues that may occur from using this application.
+2.You are free to install/update and use Dashboard App on your personal device.
 3.You may not sell, redistribute, or claim ownership of this software or its source code.
 4.You may modify the application for personal use only, but you may not distribute modified versions.
 5.This software is intended for personal and educational use.
